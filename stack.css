@@ -1,0 +1,25 @@
+.container{
+    margin:100px;
+}
+
+.input-container{
+    display: flex;
+    justify-content: space-between;
+}
+
+.container_stack-elements{
+    border:2px solid lightsalmon;
+}
+
+.container_stack-elements span{
+    padding: 5px;
+    display:inline-block;
+    border-right:3px solid orange;
+}
+
+.margin-B-20{
+    margin-bottom: 20px;
+}
+
+
+
